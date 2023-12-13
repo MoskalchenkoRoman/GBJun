@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bac681e-4ed9-4bf5-8084-c05395b7ed5b" name="Changes" comment="dz1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dz2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dz2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dz2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dz2/Main.java" afterDir="false" />
+    <list default="true" id="9bac681e-4ed9-4bf5-8084-c05395b7ed5b" name="Changes" comment="dz2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dz3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dz3/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.org.example.dz3.Main">
     <configuration name="DZ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dz1.DZ1" />
       <module name="GBJun" />
@@ -76,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.dz3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dz3.Main" />
+      <module name="GBJun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dz3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.dz3.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DZ1" />
       </list>
@@ -99,11 +111,19 @@
       <option name="project" value="LOCAL" />
       <updated>1701237019928</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dz2">
+      <created>1701866125258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701866125258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
+    <MESSAGE value="dz2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz2" />
   </component>
 </project>
